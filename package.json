@@ -1,6 +1,6 @@
 {
   "name": "smooth-progress",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "pixel-by-pixel CLI progress bar",
   "main": "index.js",
   "engines": {
