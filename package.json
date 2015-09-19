@@ -1,0 +1,26 @@
+{
+  "name": "smooth-progress",
+  "version": "0.0.0",
+  "description": "pixel-by-pixel CLI progress bar",
+  "main": "index.js",
+  "engines": {"node": ">= 4.0.0"},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dickeyxxx/smooth-progress.git"
+  },
+  "keywords": [
+    "progress-bar"
+  ],
+  "author": "Jeff Dickey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dickeyxxx/smooth-progress/issues"
+  },
+  "homepage": "https://github.com/dickeyxxx/smooth-progress#readme",
+  "dependencies": {
+    "chalk": "^1.1.1"
+  }
+}
